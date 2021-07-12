@@ -6,7 +6,7 @@ const SearchBar = () => {
 			<div className='nav-wrapper'>
 				<form>
 					<div className="input-field">
-						<input type="search" id="search" required />
+						<input type="search" id="search" />
 						<label htmlFor="search" className="label-icon">
 							<i className="material-icons">search</i>
 						</label>
