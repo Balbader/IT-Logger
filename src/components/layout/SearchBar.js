@@ -7,7 +7,9 @@ const SearchBar = () => {
 				<form>
 					<div className="input-field">
 						<input type="search" id="search" required />
-						<label htmlFor="search" className="label-icon"><i className="material-icons">search</i></label>
+						<label htmlFor="search" className="label-icon">
+							<i className="material-icons">search</i>
+						</label>
 					</div>
 				</form>
 			</div>
